@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a Data Scientist currently working at Bosch, Bengaluru. The repositories here are a documentation of my learnings in the field of Data Science. Feel free to fork and learn with me.
 
->🔭 I am currently working on Context Aware Personalization and time series problems
+>🔭 I am currently working on Computer Vision and Time series problems
 
 >🌱 I am currently learning Image Processing and Computer Vision                                                       
 
